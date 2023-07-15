@@ -55,7 +55,7 @@ try:
             except:
                 print('something is wrong')
         except:
-            print('somethign went wrong in password creation')
+            print('something went wrong in password creation')
 
 
         # # ===========================
